@@ -1,0 +1,3 @@
+#!/bin /bash
+echo "/var/log/devops_toolkit/" >> .gitignore
+echo "/var/backups/devops_toolkit/" >> .gitignore
